@@ -8,3 +8,7 @@
 <sapn><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"></sapn>
 <sapn><img src="https://img.shields.io/badge/Node.jss-339933?style=for-the-badge&logo=Node.js&logoColor=white"></sapn>
 <sapn><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"></sapn>
+
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
